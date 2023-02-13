@@ -1,0 +1,14 @@
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.contenedor_principal{          
+    /* margin-top: 100px; */
+    /* width:1000px; */
+    /* background-color: orange; */
+    background-color: white;       
+    /* background:url('../../assets/fondoazul3.jpg'); */
+}

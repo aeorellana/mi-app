@@ -27,7 +27,7 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": ["src/app/home/funciones.js"]
           },
           "configurations": {
             "production": {
@@ -89,10 +89,13 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": ["src/app/home/funciones.js"]
           }
         }
       }
     }
+  },
+  "cli": {
+    "analytics": false
   }
 }
